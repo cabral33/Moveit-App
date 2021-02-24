@@ -1,2 +1,2 @@
-# Moveit-App
-App do Curso Rocketseat
+# Projeto Rocketseat Moveit
+
